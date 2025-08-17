@@ -14,7 +14,7 @@ Ensure you have the following installed:
 * **SnarkJS** (install globally)
 
   ```bash
- Sudo npm install -g snarkjs
+    Sudo npm install -g snarkjs
   ```
 * **Vim or any text editor** (for editing `input.json`)
 
